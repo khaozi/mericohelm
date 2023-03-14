@@ -3,7 +3,7 @@ entries:
   merico-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.810434+08:00"
+    created: "2023-03-15T04:54:29.500824+08:00"
     description: A Helm chart for Kubernetes
     digest: fd4547a2359b8b8623fe62b858f1deff3e35c1422d496f814539eb0c56fd7eee
     name: merico-helm
@@ -13,7 +13,7 @@ entries:
     version: 3.120.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.803354+08:00"
+    created: "2023-03-15T04:54:29.49392+08:00"
     description: A Helm chart for Kubernetes
     digest: 80c3f1789beee210fefb926bcd83d0628cc6f4853fc8bcf3c50f835314c06f98
     name: merico-helm
@@ -23,7 +23,7 @@ entries:
     version: 3.120.4-anxinv5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.795476+08:00"
+    created: "2023-03-15T04:54:29.48723+08:00"
     description: A Helm chart for Kubernetes
     digest: bc028e3bd82ab042117408417819bc7ed22a0cc5895432aeb21f3942a9d829da
     name: merico-helm
@@ -33,7 +33,7 @@ entries:
     version: 3.120.4-anxinv4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.786383+08:00"
+    created: "2023-03-15T04:54:29.480551+08:00"
     description: A Helm chart for Kubernetes
     digest: 134f47d22dc6d0e27d20ee77f77161315c772a2c3af9a012a6a0caca3999dd96
     name: merico-helm
@@ -43,7 +43,7 @@ entries:
     version: 3.120.4-anxinv3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.776581+08:00"
+    created: "2023-03-15T04:54:29.473185+08:00"
     description: A Helm chart for Kubernetes
     digest: 0bebfbcc381ca37da527af98013df296220d9eca42c7efe65f7dd61410a8b752
     name: merico-helm
@@ -53,7 +53,7 @@ entries:
     version: 3.120.4-anxinv2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.769773+08:00"
+    created: "2023-03-15T04:54:29.465771+08:00"
     description: A Helm chart for Kubernetes
     digest: 5eb9086b3ae16fc2bf81cbdd44c1ad10f24d0bf9873f9c56acfc59d9f455eb48
     name: merico-helm
@@ -63,7 +63,27 @@ entries:
     version: 3.120.4-anxinv1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.760892+08:00"
+    created: "2023-03-15T04:54:29.45905+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 7ff532d81dd4dc3e8cb80f411b29d27535910c76b85a62b9f32b276b967df944
+    name: merico-helm
+    type: application
+    urls:
+    - https://khaozi.github.io/mericohelm/merico-helm-3.120.4-anxinip-without-volumemounts.tgz
+    version: 3.120.4-anxinip-without-volumemounts
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-15T04:54:29.451788+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 48d11b36952ea9b638380b929c38962e706c8c99151ed91b474f8f724803dbf4
+    name: merico-helm
+    type: application
+    urls:
+    - https://khaozi.github.io/mericohelm/merico-helm-3.120.4-anxinip-normal.tgz
+    version: 3.120.4-anxinip-normal
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-15T04:54:29.444551+08:00"
     description: A Helm chart for Kubernetes
     digest: 917dce612b72f5498092dd6a5a88e063a19f013ad9e9c112899a5d63320bcb36
     name: merico-helm
@@ -73,7 +93,7 @@ entries:
     version: 3.120.4-anxin-without-volumemounts
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.75475+08:00"
+    created: "2023-03-15T04:54:29.436399+08:00"
     description: A Helm chart for Kubernetes
     digest: a12e4057e76fe26178dc2252050637a3f5e4caca56adc4fee3533f5c43d6c001
     name: merico-helm
@@ -83,7 +103,7 @@ entries:
     version: 3.120.4-anxin-normal
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-15T02:08:30.747744+08:00"
+    created: "2023-03-15T04:54:29.429459+08:00"
     description: A Helm chart for Kubernetes
     digest: 40cba2d7c16e7fe15cb0e43fb367415eda4a05a7a41d1975b04c6cb99cce133f
     name: merico-helm
@@ -91,4 +111,4 @@ entries:
     urls:
     - https://khaozi.github.io/mericohelm/merico-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-15T02:08:30.739558+08:00"
+generated: "2023-03-15T04:54:29.419475+08:00"
