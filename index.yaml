@@ -3,12 +3,32 @@ entries:
   merico-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-10T00:54:47.420973+08:00"
+    created: "2023-03-14T14:34:02.724517+08:00"
     description: A Helm chart for Kubernetes
-    digest: eab4948824f01f0c1c286b9830d8a43c6fe509ee14075f99a2f26bfa64703164
+    digest: fd4547a2359b8b8623fe62b858f1deff3e35c1422d496f814539eb0c56fd7eee
     name: merico-helm
     type: application
     urls:
-    - https://khaozi.github.io/mericohelm/merico-helm-3.120.4.tgz
+    - https://khaozi.github.io/mericohelm/index.html/merico-helm-3.120.4.tgz
     version: 3.120.4
-generated: "2023-03-10T00:54:47.412254+08:00"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-14T14:34:02.717177+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 5eb9086b3ae16fc2bf81cbdd44c1ad10f24d0bf9873f9c56acfc59d9f455eb48
+    name: merico-helm
+    type: application
+    urls:
+    - https://khaozi.github.io/mericohelm/index.html/merico-helm-3.120.4-anxinv1.tgz
+    version: 3.120.4-anxinv1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-14T14:34:02.710651+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 40cba2d7c16e7fe15cb0e43fb367415eda4a05a7a41d1975b04c6cb99cce133f
+    name: merico-helm
+    type: application
+    urls:
+    - https://khaozi.github.io/mericohelm/index.html/merico-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-14T14:34:02.700506+08:00"
