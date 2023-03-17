@@ -3,7 +3,7 @@ entries:
   merico-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.923474+08:00"
+    created: "2023-03-17T17:11:51.584022+08:00"
     description: A Helm chart for Kubernetes
     digest: fd4547a2359b8b8623fe62b858f1deff3e35c1422d496f814539eb0c56fd7eee
     name: merico-helm
@@ -13,7 +13,7 @@ entries:
     version: 3.120.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.917597+08:00"
+    created: "2023-03-17T17:11:51.576883+08:00"
     description: A Helm chart for Kubernetes
     digest: 80c3f1789beee210fefb926bcd83d0628cc6f4853fc8bcf3c50f835314c06f98
     name: merico-helm
@@ -23,7 +23,7 @@ entries:
     version: 3.120.4-anxinv5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.911509+08:00"
+    created: "2023-03-17T17:11:51.570639+08:00"
     description: A Helm chart for Kubernetes
     digest: bc028e3bd82ab042117408417819bc7ed22a0cc5895432aeb21f3942a9d829da
     name: merico-helm
@@ -33,7 +33,7 @@ entries:
     version: 3.120.4-anxinv4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.906358+08:00"
+    created: "2023-03-17T17:11:51.563829+08:00"
     description: A Helm chart for Kubernetes
     digest: 134f47d22dc6d0e27d20ee77f77161315c772a2c3af9a012a6a0caca3999dd96
     name: merico-helm
@@ -43,7 +43,7 @@ entries:
     version: 3.120.4-anxinv3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.900582+08:00"
+    created: "2023-03-17T17:11:51.556733+08:00"
     description: A Helm chart for Kubernetes
     digest: 0bebfbcc381ca37da527af98013df296220d9eca42c7efe65f7dd61410a8b752
     name: merico-helm
@@ -53,7 +53,7 @@ entries:
     version: 3.120.4-anxinv2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.893343+08:00"
+    created: "2023-03-17T17:11:51.549643+08:00"
     description: A Helm chart for Kubernetes
     digest: 5eb9086b3ae16fc2bf81cbdd44c1ad10f24d0bf9873f9c56acfc59d9f455eb48
     name: merico-helm
@@ -63,7 +63,17 @@ entries:
     version: 3.120.4-anxinv1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.880909+08:00"
+    created: "2023-03-17T17:11:51.53611+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 7e292cfa970a7f9a770607f4de52123d5b180f29af00dfc306e7ba9bc8bbb208
+    name: merico-helm
+    type: application
+    urls:
+    - https://khaozi.github.io/mericohelm/merico-helm-3.120.4-anxinip-without-volumemounts-rolebinding-improve-v2-nopgsethots.tgz
+    version: 3.120.4-anxinip-without-volumemounts-rolebinding-improve-v2-nopgsethots
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-17T17:11:51.529047+08:00"
     description: A Helm chart for Kubernetes
     digest: e4f4421bed3a696f3d4ddd4ac07f5fad773e14d3e9640a27a1f3b0d36b5d27ee
     name: merico-helm
@@ -73,7 +83,7 @@ entries:
     version: 3.120.4-anxinip-without-volumemounts-rolebinding-improve-v1-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.875009+08:00"
+    created: "2023-03-17T17:11:51.522665+08:00"
     description: A Helm chart for Kubernetes
     digest: 7749e6aa75ad9438d48d90da1f412535ab6374ee00b9dd05a4406fd0472cb910
     name: merico-helm
@@ -83,7 +93,7 @@ entries:
     version: 3.120.4-anxinip-without-volumemounts-rolebinding-improve-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.869583+08:00"
+    created: "2023-03-17T17:11:51.515788+08:00"
     description: A Helm chart for Kubernetes
     digest: dc4aaca7dfb8c03d721ca19a17b8eea30f3101d41976cd0fe27575c2a94ae75c
     name: merico-helm
@@ -93,7 +103,7 @@ entries:
     version: 3.120.4-anxinip-without-volumemounts-noclusterrole-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.863627+08:00"
+    created: "2023-03-17T17:11:51.508434+08:00"
     description: A Helm chart for Kubernetes
     digest: f3f98c8594b3d3db7331e54ce830926a2e7b719f9bc405d42a79e0b89ceeaccc
     name: merico-helm
@@ -103,7 +113,7 @@ entries:
     version: 3.120.4-anxinip-without-volumemounts-noallclusterrole-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.887005+08:00"
+    created: "2023-03-17T17:11:51.543141+08:00"
     description: A Helm chart for Kubernetes
     digest: 7ff532d81dd4dc3e8cb80f411b29d27535910c76b85a62b9f32b276b967df944
     name: merico-helm
@@ -113,7 +123,7 @@ entries:
     version: 3.120.4-anxinip-without-volumemounts
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.851197+08:00"
+    created: "2023-03-17T17:11:51.492957+08:00"
     description: A Helm chart for Kubernetes
     digest: 984ebbba0d4a1e6563ec22e3417b7a32062423c7d5a58dd05fa20ba5aae3ea7e
     name: merico-helm
@@ -123,7 +133,7 @@ entries:
     version: 3.120.4-anxinip-normal-rolebinding-improve-v1-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.84391+08:00"
+    created: "2023-03-17T17:11:51.482949+08:00"
     description: A Helm chart for Kubernetes
     digest: 9a18f6cfba0de594988287f88b1a1f43c00034080b33c5e48bc01f9f74c2eb29
     name: merico-helm
@@ -133,7 +143,7 @@ entries:
     version: 3.120.4-anxinip-normal-rolebinding-improve-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.838031+08:00"
+    created: "2023-03-17T17:11:51.475145+08:00"
     description: A Helm chart for Kubernetes
     digest: 615c493430f6f460341c363050608ec7e35b749eb735236ef50d5df331c3da4a
     name: merico-helm
@@ -143,7 +153,7 @@ entries:
     version: 3.120.4-anxinip-normal-noclusterrole-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.832201+08:00"
+    created: "2023-03-17T17:11:51.467716+08:00"
     description: A Helm chart for Kubernetes
     digest: eb2e7d61d7c52de949df7a10f08165bfe204edd5057c173e2955170201336b2d
     name: merico-helm
@@ -153,7 +163,7 @@ entries:
     version: 3.120.4-anxinip-normal-noalllusterrole-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.826861+08:00"
+    created: "2023-03-17T17:11:51.461624+08:00"
     description: A Helm chart for Kubernetes
     digest: 74a8ff286ec0c3e609c99d0062ce5089f61a0c4115bf6407551be2144e215d68
     name: merico-helm
@@ -163,7 +173,7 @@ entries:
     version: 3.120.4-anxinip-normal-noallclusterrole-nopgsethots
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.85727+08:00"
+    created: "2023-03-17T17:11:51.500111+08:00"
     description: A Helm chart for Kubernetes
     digest: 48d11b36952ea9b638380b929c38962e706c8c99151ed91b474f8f724803dbf4
     name: merico-helm
@@ -173,7 +183,7 @@ entries:
     version: 3.120.4-anxinip-normal
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.818649+08:00"
+    created: "2023-03-17T17:11:51.454573+08:00"
     description: A Helm chart for Kubernetes
     digest: 917dce612b72f5498092dd6a5a88e063a19f013ad9e9c112899a5d63320bcb36
     name: merico-helm
@@ -183,7 +193,7 @@ entries:
     version: 3.120.4-anxin-without-volumemounts
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.811475+08:00"
+    created: "2023-03-17T17:11:51.445268+08:00"
     description: A Helm chart for Kubernetes
     digest: a12e4057e76fe26178dc2252050637a3f5e4caca56adc4fee3533f5c43d6c001
     name: merico-helm
@@ -193,7 +203,7 @@ entries:
     version: 3.120.4-anxin-normal
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-16T23:33:51.805629+08:00"
+    created: "2023-03-17T17:11:51.438305+08:00"
     description: A Helm chart for Kubernetes
     digest: 40cba2d7c16e7fe15cb0e43fb367415eda4a05a7a41d1975b04c6cb99cce133f
     name: merico-helm
@@ -201,4 +211,4 @@ entries:
     urls:
     - https://khaozi.github.io/mericohelm/merico-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-16T23:33:51.799187+08:00"
+generated: "2023-03-17T17:11:51.429647+08:00"
